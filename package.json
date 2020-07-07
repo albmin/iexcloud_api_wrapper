@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/schardtbc/iexcloud_api_wrapper#readme",
   "devDependencies": {
-    "@types/jest": "24.0.15",
+    "@types/jest": "26.0.4",
     "jest": "24.8.0",
     "nyc": "14.1.1",
     "prettier": "1.18.2",
